@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ny-Rianala/server-side/issues"
   },
-  "homepage": "https://github.com/Ny-Rianala/server-side#readme"
+  "homepage": "https://github.com/Ny-Rianala/server-side#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
